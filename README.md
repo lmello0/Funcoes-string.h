@@ -5,10 +5,11 @@
 
  ## Imagens:
 
+ **strcat:**
  ![Strcat](/Imagens/Strcat.png)
-
+ **strlen:**
  ![Strlen](/Imagens/Strlen.png)
-
+ **strncpy:**
  ![Strncpy](/Imagens/Strncpy.png)
 
  
